@@ -104,10 +104,12 @@
 
 ---
 
-# 🧩 Coding Profiles
+# 🧩 Coding Journey
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Pekopekp?theme=dark&font=Nunito&ext=contest" />
+  <a href="https://leetcode.com/u/GhostUsertile/">
+    <img src="https://leetcard.jacoblin.cool/GhostUsertile?theme=dark&font=Nunito&ext=contest" />
+  </a>
 </p>
 
 ---
