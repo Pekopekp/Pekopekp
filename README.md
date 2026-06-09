@@ -7,24 +7,9 @@
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Backend Developer focused on **Python**
-- 🌱 Currently learning:
-  - Backend Architecture
-  - APIs
-  - Machine Learning
-  - System Design
-- 🔭 Working on:
-  - Smart Home Security Systems
-  - Sign Language Detection App
-  - AI + IoT Projects
-- 🧠 Interested in:
-  - Artificial Intelligence
-  - IoT Automation
-  - Scalable Backend Systems
-- ⚡ Fun fact:
-  > I enjoy combining AI with real-world hardware projects.
+I'm a passionate Full-Stack Developer and IoT enthusiast who enjoys building real-world projects using Python, AI, and embedded systems. I love combining software and hardware to create smart automation systems, intelligent applications, and scalable backend solutions. Currently exploring Machine Learning, backend development, and problem solving through DSA while continuously improving my development skills.
 
 ---
 
@@ -32,6 +17,8 @@
 
 ## 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
@@ -44,6 +31,7 @@
 
 ## 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
