@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🌱 Currently learning **Advanced Full Stack Development & Machine Learning**
-- 🔭 Working on:
+- 🔭 Worked on:
   - Smart Home Security Systems
   - Sign Language Detection App
   - AI + IoT Projects
@@ -21,7 +21,6 @@
   - **ESP32 / Arduino**
 - 🧠 Interested in:
   - Machine Learning
-  - Cybersecurity
   - IoT Automation
   - Web Development
 - ⚡ Fun fact:
@@ -43,8 +42,9 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
 
 ## Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
