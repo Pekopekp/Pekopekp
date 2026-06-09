@@ -61,32 +61,6 @@
 
 ---
 
-# 📌 Featured Projects
-
-## 🏠 Smart Home Security System
-- Face Recognition Door Lock
-- PIR Motion Detection
-- ESP32-CAM Integration
-- Solenoid Lock Automation
-- Python Backend + IoT Communication
-
----
-
-## ✋ Sign Language Detection App
-- Real-time Gesture Detection
-- Sentence Prediction
-- ML-powered Recognition
-- Live Translation System
-
----
-
-## 🤖 AI Disease Detection Chatbot
-- Detects Visible Skin Conditions
-- Image-based Predictions
-- AI + Computer Vision Integration
-
----
-
 # 🧩 Coding Journey
 
 <p align="center">
@@ -100,9 +74,15 @@
 # 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://github.com/Pekopekp" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" />
 </a>
+
+<a href="mailto:khdeepakkumarsingha@gmail.com">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="30" width="40" />
+</a>
+
 </p>
 
 ---
